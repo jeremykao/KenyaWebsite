@@ -1,0 +1,9 @@
+Kenya Website README
+Author: Jeremy Kao
+Contact: j7kao@ucsd.edu
+Overview: The website for the ENG100L Kenya Solar Power Demonstration Project. 
+Requirements: Web Server with PHP and MySQL
+Languages: HTML, CSS, PHP, MySQL
+Features: - Static HTML Webpages with Information about team
+		  - Universal CSS for uniform design
+		  - Content Management System for creating and storing blog posts
